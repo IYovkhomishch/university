@@ -3,13 +3,10 @@
 # Useful .gitignore templates: https://github.com/github/gitignore
 .idea
 doc
-.gitignore
-.gitattributes
-.gitignore
-LICENSE.txt
-tile.png
-tile-wide.png
-tile.png
+css
+doc
+img
+js
 
 
 
